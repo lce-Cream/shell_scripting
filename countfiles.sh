@@ -24,7 +24,7 @@ done
 }
 
 interactive(){
-read -p "Source: " 		SOURCE
+read -p "Source: " 	SOURCE
 read -p "Destination: " DESTINATION
 read -p "Extensions: "  EXTENSIONS
 count $EXTENSIONS
