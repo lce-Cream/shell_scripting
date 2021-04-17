@@ -48,10 +48,10 @@ do
 	    exit
 	    ;;
 	    *)
-		echo Invalid argument $1
-		echo Try \'email --help\' for more information.
-		exit
-		;;
+	    echo Invalid argument $1
+	    echo Try \'email --help\' for more information.
+	    exit
+	    ;;
 	esac
 done
 
